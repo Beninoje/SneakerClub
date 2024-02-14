@@ -1,9 +1,5 @@
 # NIKE
 
-Welcome to the React + Vite template! This setup provides a quick and minimal way to start working with React in the Vite development environment. It includes Hot Module Replacement (HMR) for fast updates and comes with essential ESLint rules to keep your code clean.
-
-## Cool Features of the Webpage
-
 Our landing page built using React, Vue, and Tailwind CSS offers an immersive experience inspired by the NIKE website. Here are some of its standout features:
 
 - **Stylish Shoe Showcase:** Explore a variety of stylish shoe designs that mirror the latest trends and collections from NIKE. Each shoe is meticulously crafted to highlight its unique features and aesthetics.
